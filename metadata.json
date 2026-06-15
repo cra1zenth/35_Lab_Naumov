@@ -1,0 +1,6 @@
+{
+  "name": "Top 5 AI for Learning",
+  "description": "Сайт про топ-5 нейромереж для навчання студентів з аналізом зручності, інтерфейсу та практичного функціоналу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
